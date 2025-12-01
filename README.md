@@ -5,7 +5,7 @@ For my personal dataset project, I decided to explore trends in breast cancer mo
 ### Data Processing
 In order to carry out the analysis below, I made sure that the number of rows were the same in both datasets by matching up the States column with each other and making sure they were written in the same way. I got rid of two rows from the CDC dataset that accounted for the D.C. area and the United States to make the number of rows even. 
 ### Exploratory Analysis
-The plot below shows a box graph of the breast cancer mortality rates between Democratic and Republican states. 
+The plot below shows a box graph of the breast cancer mortality rates between Democratic and Republican states. Here we see that Republican states tend to have higher breast cancer mortality rates than Democratic states.
 <img width="1400" height="865" alt="pdp_visualization2" src="https://github.com/user-attachments/assets/941e3be1-dc86-4f68-84c9-807789b6e7e4" />
 I ran a logistic regression model to study the relationship between political parties and breast cancer mortality rates. The plot below shows the logistic regression model:
 <img width="1168" height="721" alt="image" src="https://github.com/user-attachments/assets/3ebc0326-265d-4126-97a5-96f82c4b28fd" />
