@@ -1,7 +1,7 @@
 # Math144_PDP
 Dataset project for Math-144
 ### Introduction
-For my personal dataset project, I decided to explore trends in breast cancer mortality rates by looking at the education and income of each state. I scraped data from the CDC and combined it with a dataset we used previously, the education and income dataset. 
+For my personal dataset project, I decided to explore trends in breast cancer mortality rates by looking at the education and income of each state. I combined two datasets: one from the CDC that provides information on the breast cancer mortality rate in all females in every state; and a dataset we used previously, the education and income dataset. 
 ### Data Processing
 In order to carry out the analysis below, I made sure that the number of rows were the same in both datasets by matching up the States column with each other and making sure they were written in the same way. I got rid of two rows from the CDC dataset that accounted for the D.C. area and the United States to make the number of rows even. I then combined the two datasets.
 ### Exploratory Analysis
