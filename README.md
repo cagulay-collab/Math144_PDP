@@ -13,5 +13,5 @@ I ran a logistic regression model to see if mortality rates can predict politica
 ### Linear Regression
 I also created scatterplots to understand the relationship between education and income and mortality rates between the two political parties. I ran a linear regression model for these, but they had low coefficients of determinance. The linear model that predicted mortality rate based on per capita income and political party explained 27.57% of the variance. 
 <img width="1168" height="721" alt="analysis_1" src="https://github.com/cagulay-collab/Math144_PDP/blob/a70f626d990e32066c8faa27df0174249e9f5df7/updated_per.capita.income%20graph.png"/>
-The linear model that predicted mortality rate based on percentage of advanced degree holders explained 13.88% of the variance.
+The linear model that predicted mortality rate based on percentage of advanced degree holders and political party explained 13.88% of the variance.
 <img width="1168" height="721" alt="analysis_2" src="https://github.com/cagulay-collab/Math144_PDP/blob/a70f626d990e32066c8faa27df0174249e9f5df7/updated_adv.perc%20graph.png" />
